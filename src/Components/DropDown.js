@@ -41,7 +41,7 @@ export default function DropDown({
           onChange={handleProductChange}
         >
           <MenuItem value="Hello">Hello</MenuItem>
-          <MenuItem value="Hola">Hola</MenuItem>
+          <MenuItem value="Hola">Holaaaaa</MenuItem>
           <MenuItem value="Ciao">Ciao</MenuItem>
         </Select>
       </Grid>
